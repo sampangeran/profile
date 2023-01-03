@@ -615,6 +615,24 @@ section {
   bottom: 0;
 }
 
+.portfolio .btn-see-more {
+  background: #37b3ed;
+  border: 1px solid #37b3ed;
+  color: #fff;
+  display: inline-block;
+  padding: 8px 30px;
+  border-radius: 20px;
+  transition: 0.5s;
+  margin: 0 10px 10px 0;
+  color: #fff;
+}
+
+.portfolio .btn-see-more:hover{
+  background: none;
+  border-color: #37b3ed;
+  color: #37b3ed;
+}
+
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
